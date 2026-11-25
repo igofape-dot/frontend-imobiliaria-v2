@@ -1,0 +1,8 @@
+{
+  "name": "Remix GoFAPE - Farina Imobiliária2",
+  "description": "Plataforma de gestão imobiliária e visão de BI Farina.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
